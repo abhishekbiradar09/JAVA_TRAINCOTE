@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/JAVAFSD/pom.xml" />
+        <option value="$PROJECT_DIR$/Postgresql/PostgreSql/pom.xml" />
       </list>
     </option>
   </component>

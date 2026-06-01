@@ -9,5 +9,8 @@
         <module name="Test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PostgreSql" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
